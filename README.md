@@ -6,7 +6,7 @@ Cricket API - Deploy Live Cricket Score API for free in Vercel and Docker.
 
 ## About API 🌐
 
-Learn More about the API Here - <[https://github.com/sanjeev28/cric-score]>
+Learn More about the API Here - https://github.com/sanjeev28/cric-score
 
 ## Free Deploy 🍔
 
